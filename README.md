@@ -7,3 +7,4 @@ The genetic code is the set of rules used by living cells to translate informati
    
 ## How does it works?
    
+   
